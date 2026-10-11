@@ -32,7 +32,7 @@
 ### Clone & Run
 
 ```bash
-git clone https://github.com/YOUR_USER/har-extractor.git
+git clone https://github.com/ZeXAsura/Har-Extractor.git
 cd har-extractor
 chmod +x har.sh
 ./har.sh
@@ -167,4 +167,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 📄 License
 
-MIT © [ZexAsura](LICENSE).
+MIT © [ZeXAsura](LICENSE).
