@@ -1,0 +1,26 @@
+# Temp files
+.url_*
+.domain_*
+.api_*
+.temp_*
+*.tmp
+
+# Logs
+*.log
+
+# Exports
+api_export_*.txt
+har_export_*.txt
+
+# HAR files (test data)
+*.har
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
